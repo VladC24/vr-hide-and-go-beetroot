@@ -11,6 +11,10 @@ Introducing Hide And Go Beetroot, a virtual reality game where you'll have to na
 
 This game was created as the final project of the Makers Academy software engineering bootcamp. The game flow will take the player from a start menu scene, to the game, a scene where the player enters their name, leaderboard with a button to take the player back to the start menu. Through the use of a maze creation algorithm every maze that the player attempts will be entirely unique.
 
+## SCREENSHOTS
+
+[](/images/H&GB_Demo.mp4)
+
 ## GETTING STARTED
 
 We have a premade file for use with Samsung phones and Gear VR headsets. In order to get this working follow these steps:
