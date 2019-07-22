@@ -79,5 +79,3 @@ I would like to hear some moody music while I play the game.
 **VR libraries:** *Google VR* provides an SDK (Software Development Kit) which uses APIs to help with the creation of key VR features like user input, controller support, and rendering.
 
 **Game deployment:** *Oculus* which is a digital entertainment company. It was used to power our virtual reality gameplay.
-
-## APPROACH
