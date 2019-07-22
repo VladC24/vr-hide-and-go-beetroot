@@ -16,9 +16,11 @@ This game was created as the final project of the Makers Academy software engine
 
 ![Labirynth - 1986, starring David Bowie](images/labryinth-movie-remake.png)
 
-![](images/start_menu.png)
-![](images/Leaderboard.png)
-![](images/End_hame.png)
+![Start Menu](images/start_menu.png)
+
+![Leaderboard](images/Leaderboard.png)
+
+![End_game](images/End_game.png)
 
 ## GETTING STARTED
 
