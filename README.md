@@ -14,11 +14,11 @@ This game was created as the final project of the Makers Academy software engine
 ## SCREENSHOTS
 * Game inspired from:
 
-[Labirynth - 1986, starring David Bowie](images/labryinth-movie-remake.jpg)
+[Labirynth - 1986, starring David Bowie](images/labryinth-movie-remake.png)
 
-[](images/start_menu.jpg)
-[](images/Leaderboard.jpg)
-[](images/End_hame.jpg)
+[](images/start_menu.png)
+[](images/Leaderboard.png)
+[](images/End_hame.png)
 
 ## GETTING STARTED
 
