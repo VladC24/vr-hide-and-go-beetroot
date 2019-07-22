@@ -13,7 +13,7 @@ This game was created as the final project of the Makers Academy software engine
 
 ## SCREENSHOTS
 
-[](/images/H&GB_Demo.mp4)
+[](images/H&GB_Demo.mp4)
 
 ## GETTING STARTED
 
