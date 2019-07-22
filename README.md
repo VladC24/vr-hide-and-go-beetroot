@@ -12,8 +12,15 @@ Introducing Hide And Go Beetroot, a virtual reality game where you'll have to na
 This game was created as the final project of the Makers Academy software engineering bootcamp. The game flow will take the player from a start menu scene, to the game, a scene where the player enters their name, leaderboard with a button to take the player back to the start menu. Through the use of a maze creation algorithm every maze that the player attempts will be entirely unique.
 
 ## SCREENSHOTS
+* Game inspired from:
 
-[](/images/H&GB_Demo.mp4)
+![Labirynth - 1986, starring David Bowie](images/labryinth-movie-remake.png)
+
+![Start Menu](images/start_menu.png)
+
+![Leaderboard](images/Leaderboard.png)
+
+![End_game](images/End_game.png)
 
 ## GETTING STARTED
 
