@@ -13,7 +13,7 @@ This game was created as the final project of the Makers Academy software engine
 
 ## SCREENSHOTS
 
-[](https://www.youtube.com/watch?time_continue=1&v=iWKcLEZrZ1Q)
+[](images/labryinth-movie-remake (1).jpg)(https://www.youtube.com/watch?time_continue=1&v=iWKcLEZrZ1Q)
 
 ## GETTING STARTED
 
