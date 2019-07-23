@@ -13,14 +13,7 @@ This game was created as the final project of the Makers Academy software engine
 
 ## SCREENSHOTS
 * Game inspired from - Labirynth - 1986, starring David Bowie:
-
-![Labirynth - 1986, starring David Bowie](images/labryinth-movie-remake.png)
-
-![Start Menu](images/start_menu.png)
-
-![Leaderboard](images/Leaderboard.png)
-
-![End_game](images/End_game.png)
+[![Demo](http://img.youtube.com/vi/4pK14BlfLls/0.jpg)](http://www.youtube.com/watch?v=4pK14BlfLls "https://github.com/marbuthnott/vr-hide-and-go-leek/blob/master/images/title_beetroot.png?raw=true")
 
 ## GETTING STARTED
 
