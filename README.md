@@ -3,7 +3,7 @@ Hide And Go Beetroot
 
 *Co-authored by: Carlton Anand, Vlad Chiriac, Nicholas Barnes, and Magnus Arbuthnott*
 
-*Click this for notes from our daily stand ups and retrospectives ==>* ***[Wiki](https://github.com/Carlton7/vr-hide-and-go-leek/wiki)***
+*Click this for notes from our daily stand ups and retrospectives ==>* ***[Wiki](https://github.com/VladC24/vr-hide-and-go-beetroot/wiki)***
 
 ## INTRODUCTION
 
