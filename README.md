@@ -22,11 +22,11 @@ This game was created as the final project of the Makers Academy software engine
 
 We have a premade file for use with Samsung phones and Gear VR headsets. In order to get this working follow these steps:
 
-- Get the complete project by running `git clone git@github.com:Carlton7/vr-hide-and-go-leek.git` in your terminal.
+- Get the complete project by running `git clone git@github.com:VladC24/vr-hide-and-go-beetroot.git` in your terminal.
 - Connect your Samsung to your computer.
 - In the project repository find the file `vr-hide-and-go-leek/game_version01.apk` and drag into your mobile phone file structure.
 - On your phone access the file and download.
-- Now all you will have to do is open the vr-hide-and-go-leek file on your phone, attach it to the headset and you'll be able to enter the virtual world.
+- Now all you will have to do is open the vr-hide-and-go-beetroot file on your phone, attach it to the headset and you'll be able to enter the virtual world.
 
 ## HOW TO USE THE GAME
 
